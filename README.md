@@ -1,22 +1,22 @@
-**Description**
 
+**Description**
 This Chrome extension enhances your YouTube browsing experience by automatically redirecting YouTube video links to their embed versions. It works across all websites, ensuring seamless redirection when clicking on YouTube links. Additionally, it offers a user-friendly popup interface with the following features:
 
 Toggle Activation: Enable or disable the extension's functionality with a single click.
 Convert Current Page: Instantly convert any YouTube video page (watch format) to its embed view.
-**Features**
 
+**Features**
 Automatically intercept and redirect YouTube links to their embed version, even from external sites like Google Search.
 A clean and responsive popup UI for managing extension settings.
 A dedicated button to transform YouTube video pages to the embed format without manual URL editing.
-**Installation**
 
+**Installation**
 Clone or download this repository.
 Open Chrome and navigate to chrome://extensions.
 Enable Developer Mode.
 Click Load unpacked and select the project folder.
-**Screenshots**
 
+**Screenshots**
 (Include relevant screenshots of the popup interface and functionality here.)
 
 **Usage**
